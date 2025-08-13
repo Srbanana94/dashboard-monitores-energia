@@ -9,9 +9,9 @@ import json
 
 # --- Configurações do Google Sheets ---
 # Nome da sua planilha no Google Sheets
-SPREADSHEET_NAME = "YOUR_SPREADSHEET_NAME"
+SPREADSHEET_NAME = "planilha_vistoria_monitores_VAZIA"
 # Nome da aba (abaixo da planilha, geralmente 'Sheet1' ou 'Página1')
-WORKSHEET_NAME = "YOUR_WORKSHEET_NAME"
+WORKSHEET_NAME = "Sheet1"
 
 # Carregar credenciais do Streamlit Secrets
 # O nome 'gcp_service_account_key' deve ser o mesmo que você usou no Streamlit Secrets
